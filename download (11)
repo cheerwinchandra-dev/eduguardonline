@@ -1,0 +1,16 @@
+node_modules/
+dist/
+backend/venv/
+backend/data/
+logs/*.log
+models/ai-model/*.joblib
+models/ai-model/model_card.json
+__pycache__/
+*.pyc
+.vercel/
+.env
+.env.*
+!.env.example
+.pytest_cache/
+frontend/node_modules/
+frontend/dist/
